@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GFDN.ThaiDateText {
   public static class ThaiDateTextUtil {
 
-    public static string ThaiDateText(this DateTime[] dates) {
+    public static string ThaiDateText(this IEnumerable<DateTime> dates) {
       return "";
     }
 
