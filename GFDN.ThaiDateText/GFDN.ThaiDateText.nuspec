@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<package>
+  <metadata>
+    <id>ThaiDateText</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/greatfriends/ThaiDateText</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/greatfriends/greatfriends.github.io/master/images/gf.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Thai Date Text</tags>
+  </metadata>
+
+</package>
