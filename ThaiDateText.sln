@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFDN.ThaiDateText", "GFDN.ThaiDateText\GFDN.ThaiDateText.csproj", "{03556044-D1AE-44A0-BA3D-B9278ADC4A4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatFriends.ThaiDateText", "GFDN.ThaiDateText\GreatFriends.ThaiDateText.csproj", "{03556044-D1AE-44A0-BA3D-B9278ADC4A4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFDN.ThaiDateTextFacts", "GFDN.ThaiDateTextFacts\GFDN.ThaiDateTextFacts.csproj", "{B2990E22-7395-423B-8AEE-39520159129E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatFriends.ThaiDateTextFacts", "GFDN.ThaiDateTextFacts\GreatFriends.ThaiDateTextFacts.csproj", "{B2990E22-7395-423B-8AEE-39520159129E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{1B2100E1-EF01-4FCC-8EC2-22A480419236}"
 	ProjectSection(SolutionItems) = preProject

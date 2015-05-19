@@ -1,4 +1,4 @@
-﻿using GFDN.ThaiDateText;
+﻿using GreatFriends.ThaiDateText;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace GFDN.ThaiDateTextFacts {
+namespace GreatFriends.ThaiDateTextFacts {
   public class ThaiDateTextUtilFacts {
 
     private class Event {

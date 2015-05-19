@@ -57,9 +57,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GFDN.ThaiDateText\GFDN.ThaiDateText.csproj">
+    <ProjectReference Include="..\GFDN.ThaiDateText\GreatFriends.ThaiDateText.csproj">
       <Project>{03556044-d1ae-44a0-ba3d-b9278adc4a4f}</Project>
-      <Name>GFDN.ThaiDateText</Name>
+      <Name>GreatFriends.ThaiDateText</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
