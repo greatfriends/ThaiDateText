@@ -9,12 +9,13 @@ using Xunit;
 namespace GreatFriends.ThaiDateTextFacts {
   public class ThaiDateTextUtilFacts {
 
+    // test helper
     private class Event {
       private List<DateTime> dates = new List<DateTime>();
       public void AddDate(DateTime d) {
         dates.Add(d);
       }
-      public void SetDates(DateTime[] dates) {
+      public void SetDates(params DateTime[] dates) {
         foreach (var d in dates) AddDate(d);
       }
       public string DateText {
